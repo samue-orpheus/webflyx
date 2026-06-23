@@ -6,4 +6,3 @@
 - The Big Short
 - 12 Monkeys
 
-B: add kino titles
